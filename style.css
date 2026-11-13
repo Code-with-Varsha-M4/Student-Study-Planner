@@ -595,3 +595,7 @@ body {
 .panel {
     background: #faf9f5;
 }
+.stat-card h2 {
+    font-family: Arial, sans-serif;
+    font-variant-numeric: lining-nums;
+}
